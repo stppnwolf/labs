@@ -54,7 +54,7 @@ namespace Lab5.Op
         private static void Info()
         {
             Console.Clear();
-            Console.WriteLine("Лабораторная работа №3\nАвтор: Соболев Арсений\nГруппа: 6104-090301D\nВариант №2");
+            Console.WriteLine("Лабораторная работа №3\nВариант №2");
             Console.WriteLine("Нажмите любую кнопку для выхода");
             Console.ReadLine();
         }
@@ -102,4 +102,5 @@ namespace Lab5.Op
             }
         }
     }
+
 }
